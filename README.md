@@ -1,2 +1,2 @@
-# MEAN-Restaurant
-MEAN - Restaurant (Learning/101) 
+# Rest-Passport
+REST + Passport, local
